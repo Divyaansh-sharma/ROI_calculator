@@ -1,0 +1,382 @@
+#mainContainer{
+    width: 100vw;
+    height: 140vh;
+}
+#subMainContainer{
+    height: 130vh;
+    width: 50vw;
+    margin: auto;
+    border: 2px solid black;
+    border-radius: 10px;
+    background-color: snow;
+}
+#firstRow{
+    width: 50vw;
+    height: 7vh;
+    display: flex;
+    border-radius: 10px;
+}
+#firstRow1{
+    width: 45vw;
+    height: 7vh;
+    margin: 10px 10px;
+}
+#firstRowr2{
+    width: 10vh;
+    height: 7vh;
+}
+#mainHeading1{
+ margin:  2px 17px;
+ font-size: 24px;
+ font-family: sans-serif;
+ font-weight: bold;
+}
+
+#mainHeading2{
+    margin: 10px 10px;
+}
+
+/* below navbar */
+
+#secondRow{
+    width: 50vw;
+    height: 4vh;
+    display: flex;
+    flex-direction: row-reverse;
+}
+#secondRow1{
+    width: 3vw;
+    height: 4vh;
+}
+#secondRow2{
+    width: 2vw;
+    height: 4vh;
+}
+#ic{
+    font-size: 1.2rem;
+    color:orange;
+}
+#secondRow3{
+    width: 4vw;
+    height: 4vh;
+    font-size: 1rem;
+}
+#secondRow4{
+    width: 2vw;
+    height: 4vh;
+}
+#cakeSymbol{
+    margin: -3px;
+}
+
+
+/* belowsecondrow */
+
+#thirdRow{
+    height: 10vh;
+    width: 50vw;
+}
+#thirdRow1{
+    background-color: #ececf6;
+    height: 9vh;
+    width: 45vw;
+    margin: auto;
+    border: 2px solid grey;
+    border-radius: 10px;
+    display: flex;
+    flex-direction: row-reverse;
+}
+
+#usdValue{
+    margin-right: 10px;
+    font-weight: bold;
+    font-size: 16px;
+}
+
+/* belowthirdrow */
+
+#fourth{
+    height: 8vh;
+    width: 50vw;
+    display: flex;
+}
+#fourth1{
+   height: 8vh;
+   width: 21vw;
+   display: flex;
+   align-items: center;
+   justify-content: center;
+}
+#fourth1inside1para1{
+      display: flex;
+      justify-content: center;
+      margin:0px;
+      padding-top: 8px;
+      font-size: 1em;
+}
+#fourth1inside1para2{
+    display: flex;
+    justify-content: center;
+    margin:0px;
+    padding-top: 8px;
+    font-size: 1em;
+    font-weight: bold;
+}
+#fourth1inside1{
+    background-color: #ececf6;
+    height: 6vh;
+    width: 8vw;
+    border-radius: 10px;
+    font-weight: bold;
+}
+#fourth1inside2{
+    background-color: #ececf6;
+    height: 6vh;
+    width: 8vw;
+    border-radius: 10px;
+}
+#fourth2{
+   height: 8vh;
+   width: 27vw;
+   display: flex;
+   flex-direction: row-reverse;
+}
+#fourth2insidepara{
+    display: flex;
+    margin: 4px;
+    font-size: 1em;
+    color: #9c9696;
+}
+ /* belowfourthrow  */
+
+ #fifth{
+    height: 8vh;
+    width: 40vw;
+    display: flex;
+    margin-left: 37px;
+ }
+
+ #fifthInside{
+     display: flex;
+     align-items: center;
+     font-weight: bold;
+ }
+
+ /* belowfifth */
+
+ #sixth{
+    height: 10vh;
+    width: 50vw;
+    display: flex;
+    align-items: center;
+    justify-content:space-evenly
+    
+ }
+ 
+ .sixthinside{
+     border: 1px solid rgb(218, 203, 203);
+     background-color: #ececf6;
+     border-radius: 20px;
+     width: 5vw;
+     height: 6vh;
+     display: flex;
+ }
+ #sixthInside1{
+      background-color: rgb(255, 255, 122);
+ }
+ .sixthinsidepara{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 5vw;
+    color: #9c9696;
+ }
+
+ /* below sixth */
+
+ #seventh{
+   height: 8vh;
+   width: 45vw;
+   display: flex;
+   margin-left: 37px;
+}
+
+#seventhInside1{
+    height: 8vh;
+   width: 22vw;
+    display: flex;
+    align-items: center;
+    font-weight: bold;
+    font-size: 1.2rem;
+    margin: 0px;
+}
+
+#seventhInside2{
+    height: 8vh;
+   width: 22vw;
+    display: flex;
+    flex-direction: row-reverse;
+    align-items: center;
+    font-weight: bold;
+    font-size: 1.2rem;
+    margin: 0px;
+}
+
+#ic2{
+    color: orange;
+}
+
+/* below seventh */
+
+#eighth{
+   height: 8vh;
+   width: 40vw;
+   display: flex;
+   margin-left: 37px;
+}
+
+#eighthInside{
+    display: flex;
+    align-items: center;
+    font-weight: 400;
+    font-size: 1rem;
+}
+
+/* below eight */
+
+#ninth{
+    height: 10vh;
+    width: 50vw;
+    display: flex;
+    align-items: center;
+    justify-content:space-evenly
+    
+ }
+ 
+ .ninthinside{
+     border: 1px solid rgb(218, 203, 203);
+     background-color: #ececf6;
+     border-radius: 20px;
+     width: 5vw;
+     height: 6vh;
+     display: flex;
+ }
+ .ninthinsidepara{
+     display: flex;
+     align-items: center;
+     justify-content: center;
+     width: 5vw;
+     color: #9c9696;
+    }
+    #ninthInside1{
+         background-color: rgb(255, 255, 122);
+         color: black;
+    }
+ /* below ninth */
+#tenth{
+       height: 8vh;
+       width: 50vw;
+       display: flex;
+       flex-direction: row-reverse;
+
+}
+#tenthinside{
+    height: 3vh;
+       width: 10vw;
+       margin: 0px;
+       color: #9c9696;
+}
+
+/* below tenth */
+#usdvalue{
+    margin-right: 10px;
+    font-weight: bold;
+    font-size: 18px;
+}
+
+/* below eleventh */
+
+#twelveth{
+    height: 8vh;
+    width: 50vw;
+    display: flex;
+    flex-direction: row-reverse;
+
+}
+#twelvethinside{
+ height: 3vh;
+    width: 15vw;
+    margin-top: 5px;
+    color: #9c9696;
+}
+
+/* below twelveth */
+
+#thirteenth{
+    width: 50vw;
+    height: 7vh;
+    display: flex;
+    justify-content: center;
+}
+#thirteenthinside{
+    width: 10vw;
+    height: 3vh;
+    font-size: 1.1rem;
+    font-weight: bold;
+}
+
+/* below thirteen */
+
+#fourtheenth{
+    width: 50vw;
+    height: 9vh;
+    display: flex;
+    align-items: center;
+}
+
+#fourtheenthinside1{
+    width: 25vw;
+    height: 5vh;
+    display: flex;
+    align-items: center;
+}
+#fourtheenthinside1para1{
+    width: 5vw;
+    height: 5vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-weight: bold;
+}
+#fourtheenthinside2{
+    width: 25vw;
+    height: 5vh;
+    display: flex;
+    flex-direction: row-reverse;
+    align-items: center;
+    
+}
+#fourtheenthinside1para2{
+    width: 5vw;
+    height: 5vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: orange;
+    font-weight: bold;
+}
+
+/* below fourtheenth */
+
+#fifthteenth{
+    width: 50vw;
+    height: 10vh;
+    display: flex;
+    justify-content: center;
+}
+
+#fifthteenthinside{
+    width: 50vw;
+    height: 10vh;
+    color: #9c9696;
+}
